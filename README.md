@@ -1,6 +1,6 @@
 <h1 align="center">Projeto Compare Aqui </h1>
 
-Repositório criado para armazenar documentos de cada etapa da criação do nosso site chamado `Compare Aqui`, um trabalho feito para a disciplina de PJI (Projeto Integrado).
+Repositório criado para armazenar documentos de cada etapa da criação do nosso site chamado `Compare Aqui`, trabalho na disciplina de PJI (Projeto Integrado).
 
 ##  Autores
 
