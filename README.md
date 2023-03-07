@@ -19,4 +19,4 @@ Repositório criado para armazenar documentos de cada etapa da criação do noss
 
 ##  Apoio
 
-Dê uma ⭐️ se gosotu desse repositório!
+Dê uma ⭐️ se gostou desse repositório!
