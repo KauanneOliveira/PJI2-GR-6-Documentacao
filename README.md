@@ -12,9 +12,11 @@ Repositório criado para armazenar documentos de cada etapa da criação do noss
 
 👤 **Laís Higute**
 
+- LinkedIn: [ @lais-higuti ](linkedin.com/in/lais-higuti-8672b5267)
+
 👤 **Lie Higute**
 
-- LinkedIn: [ @lie-higuti ](https://www.linkedin.com/in/lie-higuti-leite-76b2b6267/)
+- LinkedIn: [ @lie-higuti-leite ](https://www.linkedin.com/in/lie-higuti-leite-76b2b6267/)
 
 👤 **Matheus Saito**
 
