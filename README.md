@@ -14,6 +14,8 @@ Repositório criado para armazenar documentos de cada etapa da criação do noss
 
 👤 **Lie Higute**
 
+- LinkedIn: [ @lie-higuti ] (https://www.linkedin.com/in/lie-higuti-leite-76b2b6267/)
+
 👤 **Matheus Saito**
 
 
